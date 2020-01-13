@@ -1,4 +1,5 @@
-====================
+Szkolenia Python 101 clone
+==========================
 
 Niniejsze materiały to dokumentacja i kody źródłowe do szkoleń z
 języka Python realizowanych w ramach projektu [Koduj z Klasą][1]
