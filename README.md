@@ -1,4 +1,4 @@
-Szkolenia Python 101 clone
+Szkolenia Python 101 clone test
 ==========================
 
 Niniejsze materiały to dokumentacja i kody źródłowe do szkoleń z
