@@ -1,4 +1,4 @@
-Szkolenia Python 101 clone test
+Szkolenia Python 101 clone test commit
 ==========================
 
 Niniejsze materiały to dokumentacja i kody źródłowe do szkoleń z
